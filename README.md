@@ -1,4 +1,4 @@
 # sample-repo
 
 Hello github
-This is for learnings.
+This is for learning, practicing purposes. 
